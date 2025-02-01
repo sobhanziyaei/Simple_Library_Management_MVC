@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sobhan Ziyaei",
+            "username": "sobhan",
+            "crime": 0,
+            "role": "ADMIN"
+        },
+        {
+            "id": 2,
+            "name": "Sama Ziyaei",
+            "username": "sama",
+            "crime": 0,
+            "role": "USER"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Golestan",
+            "author": "Saadi",
+            "price": 230000,
+            "free": 0
+        },
+        {
+            "id": 2,
+            "title": "JS",
+            "author": "sobhan",
+            "price": 200000,
+            "free": 0
+        },
+        {
+            "id": "7bd1fda4-680c-48af-a651-851d3bb1f2a6",
+            "title": "JS",
+            "author": "sobhan",
+            "price": 200000,
+            "free": 1
+        }
+    ]
+}
